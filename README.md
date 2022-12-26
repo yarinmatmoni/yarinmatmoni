@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yarin Matmoni
 #### Full Stack Developer
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kmtnrqsv2qaslfk44vneg6n0xyngytwmf5skrs83&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kmtnrqsv2qaslfk44vneg6n0xyngytwmf5skrs83&rid=giphy.gif&ct=g">
 
 ![Profile views](https://gpvc.arturio.dev/yarinmatmoni)  
 
